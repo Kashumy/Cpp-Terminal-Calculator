@@ -15,15 +15,12 @@ pkg install git
 ````
 cd Cpp-Terminal-Calculator
 ````
-# 3 to lunch program type
-````
-./Calculator
-````
-# 4 if you want to edit code type
+
+# 3 if you want to edit code type
 ````
 nano Calculator.cpp
 ````
-# 5 compile
+# 4 compile
 1. install clang 
 ````
 pkg install clang
